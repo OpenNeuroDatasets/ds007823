@@ -65,7 +65,7 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 6
-      - name: Yanely Acosta-Imás
+      - name: Yanely Acosta-Imás (Cuban Centre for Neurosciences, Havana, Cuba)
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -252,7 +252,7 @@ data:
           Lidia Charroó-Ruiz (Cuban Centre for Neurosciences, Havana,
           Cuba,Centro Habana Community Mental Health Center, Havana, Cuba)
         nameType: Personal
-      - name: Yanely Acosta-Imás
+      - name: Yanely Acosta-Imás (Cuban Centre for Neurosciences, Havana, Cuba)
         nameType: Personal
       - name: Mitchell Valdés-Sosa
         nameType: Personal
