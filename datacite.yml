@@ -192,21 +192,30 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 21
-      - name: Shahwar Yasir
+      - name: >-
+          Shahwar Yasir (The Clinical Hospital of Chengdu Brain Sciences
+          Institute, University of Electronic Science and Technology of China,
+          Chengdu, China)
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 22
-      - name: Yu Kin
+      - name: >-
+          Yu Kin (The Clinical Hospital of Chengdu Brain Sciences Institute,
+          University of Electronic Science and Technology of China, Chengdu,
+          China)
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 23
-      - name: Peng Ren
+      - name: >-
+          Peng Ren (The Clinical Hospital of Chengdu Brain Sciences Institute,
+          University of Electronic Science and Technology of China, Chengdu,
+          China)
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -326,11 +335,20 @@ data:
           Thelma Luz Carrillo-Alfonso (Pediatric Hospital of Centro Habana,
           Havana, Cuba)
         nameType: Personal
-      - name: Shahwar Yasir
+      - name: >-
+          Shahwar Yasir (The Clinical Hospital of Chengdu Brain Sciences
+          Institute, University of Electronic Science and Technology of China,
+          Chengdu, China)
         nameType: Personal
-      - name: Yu Kin
+      - name: >-
+          Yu Kin (The Clinical Hospital of Chengdu Brain Sciences Institute,
+          University of Electronic Science and Technology of China, Chengdu,
+          China)
         nameType: Personal
-      - name: Peng Ren
+      - name: >-
+          Peng Ren (The Clinical Hospital of Chengdu Brain Sciences Institute,
+          University of Electronic Science and Technology of China, Chengdu,
+          China)
         nameType: Personal
       - name: Dezhong Yao
         nameType: Personal
