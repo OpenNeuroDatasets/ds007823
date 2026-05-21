@@ -16,7 +16,10 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 1
-      - name: Eduardo Aubert-Vázquez
+      - name: >-
+          Eduardo Aubert-Vázquez(Cuban Centre for Neurosciences, Havana,
+          Cuba,Neurodevelopment Research Unit at the Instituto de Neurobiología,
+          Universidad Nacional Autónoma de México )
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -214,7 +217,10 @@ data:
           Communication, University of Electronic Science and Technology of
           China, Chengdu, China)
         nameType: Personal
-      - name: Eduardo Aubert-Vázquez
+      - name: >-
+          Eduardo Aubert-Vázquez(Cuban Centre for Neurosciences, Havana,
+          Cuba,Neurodevelopment Research Unit at the Instituto de Neurobiología,
+          Universidad Nacional Autónoma de México )
         nameType: Personal
       - name: Lidice Galán-García
         nameType: Personal
