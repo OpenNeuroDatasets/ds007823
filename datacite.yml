@@ -142,21 +142,27 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 15
-      - name: Elba Elvira Varona-Galindo
+      - name: >-
+          Elba Elvira Varona-Galindo (Centro Habana Community Mental Health
+          Center, Havana, Cuba)
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 16
-      - name: Elizabeth Méndez-Parra
+      - name: >-
+          Elizabeth Méndez-Parra (Centro Habana Community Mental Health Center,
+          Havana, Cuba)
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
         order: 17
-      - name: Joviana Castro-Valiente
+      - name: >-
+          Joviana Castro-Valiente (Centro Habana Community Mental Health Center,
+          Havana, Cuba)
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -298,11 +304,17 @@ data:
         nameType: Personal
       - name: Annette Valdés-Virués (Hermanos Ameijeiras Hospital, Havana, Cuba)
         nameType: Personal
-      - name: Elba Elvira Varona-Galindo
+      - name: >-
+          Elba Elvira Varona-Galindo (Centro Habana Community Mental Health
+          Center, Havana, Cuba)
         nameType: Personal
-      - name: Elizabeth Méndez-Parra
+      - name: >-
+          Elizabeth Méndez-Parra (Centro Habana Community Mental Health Center,
+          Havana, Cuba)
         nameType: Personal
-      - name: Joviana Castro-Valiente
+      - name: >-
+          Joviana Castro-Valiente (Centro Habana Community Mental Health Center,
+          Havana, Cuba)
         nameType: Personal
       - name: Leyanis Ramos-Hernández
         nameType: Personal
