@@ -126,7 +126,9 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 13
-      - name: Javier Vicente Sánchez-Lopez
+      - name: >-
+          Javier Vicente Sánchez-Lopez (Institute of Neurology and
+          Neurosurgical. Havana. Cuba)
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -290,7 +292,9 @@ data:
           Norge Santiesteban (Institute of Neurology and Neurosurgical. Havana.
           Cuba)
         nameType: Personal
-      - name: Javier Vicente Sánchez-Lopez
+      - name: >-
+          Javier Vicente Sánchez-Lopez (Institute of Neurology and
+          Neurosurgical. Havana. Cuba)
         nameType: Personal
       - name: Annette Valdés-Virués
         nameType: Personal
