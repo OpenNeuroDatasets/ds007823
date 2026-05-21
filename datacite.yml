@@ -135,7 +135,7 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 14
-      - name: Annette Valdés-Virués
+      - name: Annette Valdés-Virués (Hermanos Ameijeiras Hospital, Havana, Cuba)
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -296,7 +296,7 @@ data:
           Javier Vicente Sánchez-Lopez (Institute of Neurology and
           Neurosurgical. Havana. Cuba)
         nameType: Personal
-      - name: Annette Valdés-Virués
+      - name: Annette Valdés-Virués (Hermanos Ameijeiras Hospital, Havana, Cuba)
         nameType: Personal
       - name: Elba Elvira Varona-Galindo
         nameType: Personal
