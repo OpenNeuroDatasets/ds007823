@@ -83,7 +83,7 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 8
-      - name: Laura Perez-Mayo
+      - name: Laura Perez-Mayo (Cuban Centre for Neurosciences, Havana, Cuba)
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -264,7 +264,7 @@ data:
           Brain-Apparatus Communication, University of Electronic Science and
           Technology of China, Chengdu, China),
         nameType: Personal
-      - name: Laura Perez-Mayo
+      - name: Laura Perez-Mayo (Cuban Centre for Neurosciences, Havana, Cuba)
         nameType: Personal
       - name: Joel Gutiérrez-Gil
         nameType: Personal
