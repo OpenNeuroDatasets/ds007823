@@ -99,7 +99,9 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 10
-      - name: Antonio Caballero-Moreno
+      - name: >-
+          Antonio Caballero-Moreno (Psychiatric Clinic “Gali Garcia”, National
+          Hospital, Havana, Cuba)
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -272,7 +274,9 @@ data:
           Joel Gutiérrez-Gil (Institute of Neurology and Neurosurgical. Havana.
           Cuba)
         nameType: Personal
-      - name: Antonio Caballero-Moreno
+      - name: >-
+          Antonio Caballero-Moreno (Psychiatric Clinic “Gali Garcia”, National
+          Hospital, Havana, Cuba)
         nameType: Personal
       - name: Miguel Angel Alvarez
         nameType: Personal
