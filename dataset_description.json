@@ -36,5 +36,6 @@
     "DatasetDOI": "doi:10.18112/openneuro.ds007823.v1.0.0",
     "EthicsApprovals": [
         "Ethical permission was obtained from the Ethics Committee of the Cuban Neuroscience Center which also complied with the Ethical Principles for Medical Research Involving Human Subjects outlined in the Helsinki Declaration."
-    ]
+    ],
+    "Acknowledgements": "The authors want to thank to all EEG technicians from the Clinical Services and psychologists of the Cuban Center for Neurosciences, and the specialists in Psychiatry and Neurology from the Cuban Neurological and Neurosurgical Institute and other hospitals from Havana for their contribution to the assessment to the patients. We would also like to thank to the Clinical Neurophysiology Department of the Hermanos Amejeiras Hospital and the Mental Health Center in Playa municipality for their support in this research"
 }
