@@ -37,7 +37,12 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 3
-      - name: Maria Luisa Bringas-Vega
+      - name: >-
+          Maria Luisa Bringas-Vega (The Clinical Hospital of Chengdu Brain
+          Sciences Institute, University of Electronic Science and Technology of
+          China, Chengdu, China,China-Cuba Belt and Road Joint Laboratory on
+          Neurotechnology and Brain-Apparatus Communication, University of
+          Electronic Science and Technology of China, Chengdu, China)
         givenName: ''
         familyName: ''
         nameType: Personal
@@ -232,7 +237,12 @@ data:
           Brain-Apparatus Communication, University of Electronic Science and
           Technology of China, Chengdu, China)
         nameType: Personal
-      - name: Maria Luisa Bringas-Vega
+      - name: >-
+          Maria Luisa Bringas-Vega (The Clinical Hospital of Chengdu Brain
+          Sciences Institute, University of Electronic Science and Technology of
+          China, Chengdu, China,China-Cuba Belt and Road Joint Laboratory on
+          Neurotechnology and Brain-Apparatus Communication, University of
+          Electronic Science and Technology of China, Chengdu, China)
         nameType: Personal
       - name: Trinidad Virués-Alba
         nameType: Personal
